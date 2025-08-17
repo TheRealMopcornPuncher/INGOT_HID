@@ -1,4 +1,4 @@
-# 🛠 Required Components
+# Required Components
 
 | Component                  | Quantity | Notes                                   |
 |----------------------------|----------|-----------------------------------------|
