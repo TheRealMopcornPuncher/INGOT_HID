@@ -1,3 +1,7 @@
+!(Finished Build)[https://hc-cdn.hel1.your-objectstorage.com/s/v3/0327df84baf1e9929f2a96c61b2ff6491fbd3b98_image.png]
+
+---
+
 # Required Components
 
 | Component                  | Quantity | Notes                                   |
