@@ -1,0 +1,23 @@
+{
+    "keyboard_name": "INGOT R2",
+    "maintainer": "CopperMaiden",
+    "manufacturer": "CopperMaiden",
+    "url": "N/A",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "split": {
+        "enabled": true,
+        "transport": {
+            "protocol": "serial"
+        },
+        "serial": {
+            "driver": "vendor",
+            "pin": "GP0",
+            "speed": 1
+        },
+        "usb_detect": {
+            "enabled": true
+        }
+    },
+    "layout": ""
+}
