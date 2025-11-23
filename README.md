@@ -1,4 +1,4 @@
-![Finished Build](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0327df84baf1e9929f2a96c61b2ff6491fbd3b98_image.png)
+![Finished Build](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7cf5605e759997e05ac5ba68c134215fd2bca207_image.png)
 
 ---
 
